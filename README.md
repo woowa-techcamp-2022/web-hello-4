@@ -79,3 +79,20 @@
 
 **혁진**: 햄버거(맥날).. 싼마이 좋아함.
 
+
+## 꿀팁들
+
+
+### Visual Studio Code 익스텐션 
+
+
+#### Git Lens [링크](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+
+![Git Lens](https://raw.githubusercontent.com/gitkraken/vscode-gitlens/main/images/docs/gitlens-logo-anybg.png)
+
+> 와;; 이 코드 누가 썼냐?! 범인 색출하기 좋음 . . . 해당 라인의 코드를 누가 커밋했는 지 알 수 있음.
+> 는 사실 내 코드였단거
+
+- 코드 라인을 클릭하면 누가 커밋했는 지 알려주는 vscode 익스텐션이에요
+
+
